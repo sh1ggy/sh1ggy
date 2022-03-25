@@ -8,6 +8,5 @@
 - 🎮 Lover of rhythm games
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sh1ggy&show_icons=true)
-
+![](https://github-readme-stats.vercel.app/api?username=sh1ggy&show_icons=true&theme=dracula)
 
