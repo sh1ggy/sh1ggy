@@ -1,6 +1,5 @@
-# Welcome to sh1ggy's profile
+# sh1ggy-bio
 
-### A little bit about me 
 - 🔭 I’m currently working on [sh1ggy-web](http://sh1ggy.tk), a Next.js powered website that uses pico.css for styling. I'm using it as a platform to make my own personal blogposts in markdown as well as a place to have fun with TypeScript. 
 - 📎 An ongoing projects I'm involved in [rm-dashboard](https://github.com/sh1ggy/rm-dashboard)
 - 🌱 I’m currently learning full-stack web development!
