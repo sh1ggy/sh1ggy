@@ -1,7 +1,8 @@
 # sh1ggy-bio
 
-- 🔭 I’m currently working on [nakl](https://nakl.vercel.app/), a serverless peer to peer chat & file transferring website. 
-- 🌱 I’m currently learning full-stack web development!
+- 🌱 I’m a full-time full-stack web developer.
+- 🔭 **Project I'm working on:** **da-dividers**, a bill-splitting web-app.
+- 🪧 **My latest project:** [nakl](https://nakl.vercel.app/), a serverless peer to peer chat & file transferring website. 
 - 🤯 Hackathon enthusiast
 - 📓 Note-taking and documentation fiend
 - 🎮 Lover of rhythm games
